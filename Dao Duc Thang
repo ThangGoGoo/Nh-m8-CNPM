@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="./main.css">
 </head>
 <body>
-    <div class="container ">
-        <div class="header">
+    <div class="container-fluid content_all_box">
+        <div class="row setHeader">
             <div class="col-md-4 set_all_avt">
                 <img class="avatar_Profile"
                     src="hình ảnh"
